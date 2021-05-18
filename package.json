@@ -1,0 +1,13 @@
+{
+  "name": "twitch-toxicity",
+  "version": "1.0.0",
+  "description": "twitch toxicity checker for chats",
+  "main": "index.js",
+  "author": "Ryan Gilmartin",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow-models/toxicity": "^1.2.2",
+    "@tensorflow/tfjs": "^3.6.0",
+    "tmi.js": "^1.8.3"
+  }
+}
